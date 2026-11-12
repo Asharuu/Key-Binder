@@ -1,0 +1,7 @@
+# User local configuration & temporary atomic save files
+SafeKeyBinder.config.xml
+*.config.xml.tmp
+
+# Test build artifacts
+tests/bin/
+*.pdb
